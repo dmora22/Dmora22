@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python Programming 
 
-- 😄 Pronouns: She/ the/them
+- 😄 Pronouns: She/ they/them
 - ⚡ Fun fact: I leanred how to play the piano but then stop.
 
